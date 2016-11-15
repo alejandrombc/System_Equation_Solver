@@ -1,12 +1,12 @@
 # System Equation Solver
 #Español
 
-Solucionador de ecuaciones lineales desde una imagen usando Tesseract/Tess4J, OpenCV y Java.
+Solucionador de sistemas de ecuaciones lineales desde una imagen usando Tesseract/Tess4J, OpenCV y Java.
 Proyecto para la materia de Procesamiento Digital de Imagenes.
 
 #English
 
-System Equation Solver from an image using Tesseract/Tess4J, OpenCV and Java.
+Systems of Linear Equation Solver from an image using Tesseract/Tess4J, OpenCV and Java.
 Project for Digital Image Processing subject.
 
 
