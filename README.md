@@ -9,10 +9,15 @@ English
 System Equation Solver from an image using Tesseract/Tess4J, OpenCV and Java.
 Project for Digital Image Processing subject.
 
+
+
 Authors/Autores:
 
 Alejandro Barone
 Jesus Cibeira
+
+
+
 
 
 Facultad de Ciencias, UCV.
