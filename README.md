@@ -1,4 +1,4 @@
-# System Equation Solver
+# Systems of Linear Equation Solver
 #Español
 
 Solucionador de sistemas de ecuaciones lineales desde una imagen usando Tesseract/Tess4J, OpenCV y Java.
