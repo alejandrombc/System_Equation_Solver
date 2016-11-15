@@ -2,7 +2,7 @@
 #Español
 
 Solucionador de sistemas de ecuaciones lineales desde una imagen usando Tesseract/Tess4J, OpenCV y Java.
-Proyecto para la materia de Procesamiento Digital de Imagenes.
+Proyecto para la materia de Procesamiento Digital de Imágenes.
 
 #English
 
