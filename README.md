@@ -14,6 +14,7 @@ Project for Digital Image Processing subject.
 #Authors/Autores:
 
 Alejandro Barone
+
 Jesus Cibeira
 
 
